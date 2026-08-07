@@ -128,6 +128,11 @@ A self-drive car rental web application built using modern frontend technologies
 
 > 🎓 Explore my verified digital credentials, certifications, and skills on Credly.
 
+### 🔗 My Credly Profile
+
+**[View All My Verified Credly Badges →](https://www.credly.com/users/nishchaygaurcredly)**
+
+
 ---
 
 ### 📜 Featured Credentials
