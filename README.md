@@ -1,25 +1,28 @@
 # 👋 Hi, I'm Nishchay Gaur
 
-### 🛡️ Cybersecurity | Computer Science | Security Strategy
+### 🛡️ Cybersecurity | Computer Science | Security Strategy & Transformation
 
-> **Building secure systems, exploring cybersecurity, and turning technology into practical solutions.**
+<p align="center">
+  <a href="https://nishchay-portfolio.lovable.app/">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-00C853?style=for-the-badge" alt="Portfolio">
+  </a>
+</p>
 
-🌐 **[Visit My Portfolio](https://nishchay-portfolio.lovable.app/)**
+> 🔐 Passionate about cybersecurity, secure systems, threat detection, and technology transformation.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science Engineer specializing in Cybersecurity & Forensics**, passionate about cybersecurity, secure systems, and technology.
-
-I'm interested in:
+I'm a **Computer Science Engineer specializing in Cybersecurity & Forensics**, interested in building secure and practical technology solutions.
 
 * 🔐 Cybersecurity & Information Security
 * 🛡️ Cyber Defense & Security Operations
 * 🌐 Network & Web Security
-* ☁️ Cloud Security
+* ☁️ Cloud & Infrastructure Security
 * 🕵️ Digital Forensics
 * 🤖 AI & Technology Transformation
+* 🚨 Threat Detection & Incident Response
 
 ---
 
@@ -27,19 +30,28 @@ I'm interested in:
 
 ### 🔐 Cybersecurity
 
-`Network Security` `Web Security` `SIEM` `Incident Response` `NIST` `Risk Management` `Digital Forensics`
+![Network Security](https://img.shields.io/badge/Network%20Security-111111?style=for-the-badge\&logo=cisco\&logoColor=white)
+![Web Security](https://img.shields.io/badge/Web%20Security-111111?style=for-the-badge\&logo=owasp\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-111111?style=for-the-badge\&logo=wireshark\&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-111111?style=for-the-badge\&logo=metasploit\&logoColor=white)
 
 ### 💻 Programming & Development
 
-`Python` `Java` `JavaScript` `C/C++` `React.js` `Node.js` `Django` `Spring Boot`
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
-### 🌐 Web Technologies
+### 🗄️ Tools & Technologies
 
-`HTML` `CSS` `JavaScript` `React.js` `Tailwind CSS`
-
-### 🗄️ Databases & Tools
-
-`PostgreSQL` `Git` `GitHub` `Wireshark` `Metasploit` `Linux`
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge\&logo=django\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111111?style=for-the-badge\&logo=springboot\&logoColor=white)
 
 ---
 
@@ -47,9 +59,9 @@ I'm interested in:
 
 ### 🔍 PDF Malware Analyzer
 
-A web-based cybersecurity tool designed to analyze PDF documents and detect potentially malicious content.
+A web-based cybersecurity tool designed to analyze PDF documents and identify potentially malicious content.
 
-**Focus:** Malware Analysis · Cybersecurity · Threat Detection
+**Focus:** `Malware Analysis` · `Threat Detection` · `Cybersecurity`
 
 ---
 
@@ -57,36 +69,57 @@ A web-based cybersecurity tool designed to analyze PDF documents and detect pote
 
 An AI-powered application that analyzes study parameters and previous behavior to generate an optimized weekly study plan.
 
-🌐 **[Live Project](https://study-load-eight.vercel.app/)**
+🔗 **[Live Project](https://study-load-eight.vercel.app/)**
 
-**Focus:** AI · Web Development · Productivity
+**Tech:** `AI` · `Web Development` · `JavaScript`
 
 ---
 
 ### 🚗 DriveEase
 
-A self-drive car rental web application built with modern frontend technologies.
+A self-drive car rental web application built using modern frontend technologies.
 
-**Tech:** React.js · Tailwind CSS
-
----
-
-## 📜 Certifications & Learning
-
-* 🎓 Google Cybersecurity Professional Certificate
-* 🛡️ Advanced Cybersecurity Risk Management
-* 💀 Metasploit for Beginners: Ethical Penetration Testing
-* ☁️ Cloud & Infrastructure Security
-* 📊 Microsoft & Technology Certifications
+**Tech:** `React.js` · `Tailwind CSS`
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishchaygaur&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchaygaur&layout=compact&theme=tokyonight" height="170">
-</p>
+* 🎓 **Google Cybersecurity Professional Certificate**
+* 🛡️ **Advanced Cybersecurity Risk Management**
+* 💀 **Metasploit for Beginners: Ethical Penetration Testing**
+* ☁️ **Cloud & Infrastructure Security**
+* 📊 **Microsoft Technology Certifications**
+
+---
+
+## 🎯 Current Focus
+
+```text
+Cybersecurity
+      │
+      ├── Security Strategy & Transformation
+      │
+      ├── Cloud & Infrastructure Security
+      │
+      ├── Threat Detection
+      │
+      ├── Incident Response
+      │
+      └── Secure Technology Solutions
+```
+
+---
+
+## 📌 GitHub
+
+🔭 Exploring cybersecurity and technology projects
+
+🌱 Continuously learning new security technologies
+
+💻 Building practical security-focused applications
+
+🤝 Open to collaboration on interesting technology and cybersecurity projects
 
 ---
 
@@ -95,33 +128,23 @@ A self-drive car rental web application built with modern frontend technologies.
 <p align="left">
 
 <a href="https://nishchay-portfolio.lovable.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
 </a>
 
 <a href="https://www.linkedin.com/in/nishchaygaur/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </p>
 
 ---
 
-## ⚡ Current Focus
+## ⚡ Profile
 
-```text
-Cybersecurity
-     ↓
-Security Strategy & Transformation
-     ↓
-Cloud & Infrastructure Security
-     ↓
-Threat Detection & Incident Response
-     ↓
-Building Secure Technology Solutions
-```
+<p align="center">
 
----
+**"Security isn't just about protecting systems — it's about enabling technology to move forward safely."**
 
-### 💡 "Security isn't just about protecting systems — it's about enabling technology to move forward safely."
+⭐ Feel free to explore my repositories and connect with me!
 
-⭐ **Feel free to explore my repositories and connect with me!**
+</p>
