@@ -108,6 +108,8 @@ A self-drive car rental web application built using modern frontend technologies
 * ☁️ **Cloud & Infrastructure Security**
 * 📊 **Microsoft Technology Certifications**
 
+---
+
 ## 🏆 Credly Certifications & Badges
 
 | Credential                       | Platform |
