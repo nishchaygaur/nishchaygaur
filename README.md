@@ -108,6 +108,40 @@ A self-drive car rental web application built using modern frontend technologies
 * ☁️ **Cloud & Infrastructure Security**
 * 📊 **Microsoft Technology Certifications**
 
+## 🏆 Credly Certifications & Badges
+
+<p align="center">
+
+<a href="https://www.credly.com/users/nishchaygaurcredly">
+  <img src="https://img.shields.io/badge/Credly-Verified%20Badges-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile">
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.credly.com/users/nishchaygaurcredly">
+  <img src="https://img.shields.io/badge/🏆%20View%20My%20Credly%20Badges-111111?style=for-the-badge" alt="View Credly Badges">
+</a>
+
+</p>
+
+> 🎓 Explore my verified digital credentials, certifications, and skills on Credly.
+
+---
+
+### 📜 Featured Credentials
+
+| Credential                       | Platform |
+| -------------------------------- | -------- |
+| 🛡️ Cybersecurity Certifications | Credly   |
+| 💻 Technology Certifications     | Credly   |
+| ☁️ Cloud & Security Badges       | Credly   |
+| 🎓 Professional Learning Badges  | Credly   |
+
+**🔗 [View All My Verified Credly Badges →](https://www.credly.com/users/nishchaygaurcredly)**
+
+
 ---
 
 ## 🎯 Current Focus
