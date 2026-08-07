@@ -3,7 +3,7 @@
 ### 🛡️ Cybersecurity | Computer Science | Security Strategy & Transformation
 
 <p align="center">
-  <a href="https://nishchay-portfolio.lovable.app/">
+  <a href="https://nishchaygaur.github.io/">
     <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-00C853?style=for-the-badge" alt="Portfolio">
   </a>
 </p>
@@ -158,7 +158,7 @@ Cybersecurity
 
 <p align="left">
 
-<a href="https://nishchay-portfolio.lovable.app/">
+<a href="https://nishchaygaur.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
 </a>
 
