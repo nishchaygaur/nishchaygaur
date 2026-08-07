@@ -1,16 +1,5 @@
 # 👋 Hi, I'm Nishchay Gaur
 
-test
-### 🔐 Cybersecurity
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network%20Security-111111?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-111111?style=for-the-badge&logo=owasp&logoColor=white)
-test
-
 ### 🛡️ Cybersecurity | Computer Science | Security Strategy & Transformation
 
 <p align="center">
@@ -41,6 +30,7 @@ I'm a **Computer Science Engineer specializing in Cybersecurity & Forensics**, i
 
 ### 🔐 Cybersecurity
 
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network%20Security-111111?style=for-the-badge\&logo=cisco\&logoColor=white)
 ![Web Security](https://img.shields.io/badge/Web%20Security-111111?style=for-the-badge\&logo=owasp\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=white)
@@ -50,9 +40,10 @@ I'm a **Computer Science Engineer specializing in Cybersecurity & Forensics**, i
 ### 💻 Programming & Development
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
@@ -63,6 +54,21 @@ I'm a **Computer Science Engineer specializing in Cybersecurity & Forensics**, i
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge\&logo=django\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111111?style=for-the-badge\&logo=springboot\&logoColor=white)
+
+### 🗄️ Database & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=white)
+
+### ☁️ Cloud & Security
+
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-111111?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
