@@ -1,5 +1,16 @@
 # 👋 Hi, I'm Nishchay Gaur
 
+test
+### 🔐 Cybersecurity
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network%20Security-111111?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-111111?style=for-the-badge&logo=owasp&logoColor=white)
+test
+
 ### 🛡️ Cybersecurity | Computer Science | Security Strategy & Transformation
 
 <p align="center">
