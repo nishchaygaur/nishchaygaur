@@ -1,4 +1,8 @@
 # 👋 Hi, I'm Nishchay Gaur
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=%3E+Initializing+Nishchay+Gaur...;%3E+Cybersecurity+Specialist;%3E+Security+Strategy+%26+Transformation;%3E+Threat+Detection+%7C+Incident+Response;%3E+Secure+Systems+%7C+Secure+Technology;%3E+ACCESS+GRANTED+%F0%9F%94%90" alt="Cybersecurity Typewriter" />
+</p>
+
 
 ### 🛡️ Cybersecurity | Computer Science | Security Strategy & Transformation
 
