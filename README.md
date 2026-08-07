@@ -110,33 +110,6 @@ A self-drive car rental web application built using modern frontend technologies
 
 ## 🏆 Credly Certifications & Badges
 
-<p align="center">
-
-<a href="https://www.credly.com/users/nishchaygaurcredly">
-  <img src="https://img.shields.io/badge/Credly-Verified%20Badges-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile">
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://www.credly.com/users/nishchaygaurcredly">
-  <img src="https://img.shields.io/badge/🏆%20View%20My%20Credly%20Badges-111111?style=for-the-badge" alt="View Credly Badges">
-</a>
-
-</p>
-
-> 🎓 Explore my verified digital credentials, certifications, and skills on Credly.
-
-### 🔗 My Credly Profile
-
-**[View All My Verified Credly Badges →](https://www.credly.com/users/nishchaygaurcredly)**
-
-
----
-
-### 📜 Featured Credentials
-
 | Credential                       | Platform |
 | -------------------------------- | -------- |
 | 🛡️ Cybersecurity Certifications | Credly   |
